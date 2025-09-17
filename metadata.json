@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Imagens de Publicidade com IA",
+  "description": "Um aplicativo para criar imagens de publicidade impressionantes usando um produto de referência e a IA do Gemini. Faça upload de uma imagem do produto, defina seu público e conceito, e gere duas opções de anúncios visualmente atraentes.",
+  "requestFramePermissions": []
+}
